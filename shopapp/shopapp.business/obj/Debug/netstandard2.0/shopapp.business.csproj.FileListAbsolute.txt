@@ -1,0 +1,14 @@
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.deps.json
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.dll
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.pdb
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.dll
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.dll
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.pdb
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.pdb
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csprojAssemblyReference.cache
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfo.cs
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CoreCompileInputs.cache
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CopyComplete
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb

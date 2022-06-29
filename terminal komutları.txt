@@ -1,0 +1,39 @@
+dotnet new globaljson --sdk-version 3.1.402 //global.json dosyası oluşturur proje klasörü içerisine
+
+dotnet new web //yeni core projesi oluşturma
+
+dotnet new classlib -o shopapp.business  //yeni bir class projesi oluşturur
+
+dotnet watch run //projeyi sürekli çalıştırır
+
+cls //terminali temizler
+
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 3.1.1  //sqlite  yükler
+
+dotnet tool install --global dotnet-ef   //ef yükler
+
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 3.1.3   //design yükler
+
+dotnet ef migrations add InitialCreate --startup-project ../shopapp.webui //migration oluşturur
+
+dotnet ef database update --startup-project ../shopapp.webui //database yükler
+
+dotnet ef database update 0 --startup-project ../shopapp.webui //tüm migrationsları siler
+
+dotnet ef migrations remove --startup-project ../shopapp.webui //son eklenen migrations'u siler yalnız database'e update edilmemiş olanı
+
+dotnet ef migrations update addColumnProductCategory --startup-project ../shopapp.webui //adı yazılan migrations'a kadar gelir, son eklenenleri kaldırır
+
+dotnet ef database drop --startup-project ../shopapp.webui //database siler
+
+npm i bootstrap@4.4.1 //nodejs module ile bootstrap yükleme proje içerisine
+
+npm init --yes //package.json ekleyerek, nodejs module ile eklediklerimizin bilgisini tutarız, eğer nodejsmodule klasörü silinirse bu şekilde ulaşabiliriz
+
+npm install //package.json içerisindeki dosyaları yükler
+
+dotnet add package Microsoft.AspNetCore.Mvc.DataAnnotations //annotations paketi yükleme
+
+dotnet remove package System.Linq.Dynamic.Core //paket silme
+
+dotnet ef database update --startup-project ../shopapp.webui --context ShopContext //birden fazla context var ise projede, hangi için işlem yapacağını belirtmelisin

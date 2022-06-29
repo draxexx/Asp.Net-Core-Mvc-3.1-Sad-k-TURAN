@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pwzo5Z5X6QqoZMsDlCU4WEuq357rBWEbci2Ci8k80/GrgvyMXwqWXM+tLGa/9ER3Zl/DLz+WmgY2sHzsbEvtoQ==",
+  "success": true,
+  "projectFilePath": "D:\\My Projects\\Web Projects\\Asp.Net Core Mvc 3.1 Sadık TURAN\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.deps.json
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.dll
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.pdb
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.entity.dll
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.entity.pdb
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csprojAssemblyReference.cache
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.AssemblyInfoInputs.cache
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.AssemblyInfo.cs
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csproj.CoreCompileInputs.cache
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csproj.CopyComplete
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.dll
+D:\My Projects\Web Projects\Asp.Net Core Mvc 3.1 Sadık TURAN\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.pdb
